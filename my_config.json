@@ -1,3 +1,5 @@
 {
-    "name":"dolomite"
+    "name":"dolomite",
+    "build": "ocb"
+
 }
